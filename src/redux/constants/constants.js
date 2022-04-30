@@ -1,0 +1,11 @@
+export const FILTER_IN_PRICE='FILTER_IN_PRICE';
+export const FILTER_IN_TITLE="FILTER_IN_TITLE";
+export const BAN_CHAY='BAN_CHAY';
+export const FIND_ASUS='FIND_ASUS';
+export const FIND_DEV='FIND_DEV';
+export const FIND_MACBOOK='FIND_MACBOOK';
+export const FIND_LENOVO='FIND_LENOVO';
+export const GET_DATA='GET_DATA';
+export const SEARCH_INPUT='SEARCH_INPUT';
+export const ON_TO_CART='ON_TO_CART';
+export const REMOVE_ITEM_ON_CART='REMOVE_ITEM_ON_CART'

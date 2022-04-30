@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 30px;
+    background-color: aliceblue;
+    padding: 10px 30px;
+  }
+  .footerList{
+    padding: 0;
+  }
+  
+  .iconContactCss{
+      margin-left: 20px;
+      color: #22bccb;
+      font-size: 2rem;
+  }
+ 
+  

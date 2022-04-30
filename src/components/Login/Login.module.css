@@ -1,0 +1,15 @@
+
+.login{
+    padding: 30px;
+    background-color: #66cc22;
+    position: absolute;
+    top:20%;
+    left: 35%;
+    width: 500px;
+  }
+    .loginFluid{
+    height: 800px;
+    background-image: url(https://i.pinimg.com/originals/5b/f3/00/5bf300d24d1f961d18d875de6f3ca665.jpg);
+    background-size: 100%;
+  }
+

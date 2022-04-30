@@ -1,0 +1,226 @@
+.header{
+  padding-top:  30px;
+  background-image: url(https://allimages.sgp1.digitaloceanspaces.com/wikilaptopcom/2021/06/1624543682_600_70-hinh-nen-mau-xanh-duong-dep-nhat-danh-cho.png?fbclid=IwAR1yIDHgq38vdFm1EnQ0pPJVVAeJcM_768eUYlwqNgOdcfQKDpQBM1LllSM);
+}
+.menu-bar{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.menu-bar li {
+    padding: 0 25px;
+}
+.menu-bar a{
+  color: white;
+}
+.menu-bar input{
+  border-radius: 5px;
+  width: 350px;
+}
+.search-in{
+  cursor: pointer;
+  color: #ddd;
+  position: relative;
+  top:-47%;
+  left: 100%;
+  font-size: 1.4rem;
+}
+.search-in:hover{
+  color: #66caaa;
+}
+.infor{
+
+}
+.infor img{
+  margin-left: 20px;
+  border-radius: 50%;
+}
+.infor h4{
+  font-family:sans-serif;
+  color: white;
+}
+.infor-li{
+
+}
+.infor-li a{
+  font-size: 0.8rem;
+  color: white;
+}
+.cart {
+  text-align: end;
+}
+.cart i{
+  margin-right: 20px;
+  color: white;
+  font-size: 2rem;
+}
+.cart span{
+  color: #000;
+  padding:0 8px ;
+  border-radius: 50%;
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 1.2rem;
+    position: relative;
+  top: -15px;
+  left: 50px;
+}
+#out{
+  display: none;
+}
+.all-product{
+  background-color: aliceblue;
+}
+.product-item{
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: white;
+}
+
+.product-item a{
+  text-decoration: none;
+}
+.product-item img{
+  height: 250px;
+  width: 100%;
+}
+.product-item span{
+  margin-left: 10px;
+  padding:2px 5px;
+  background-color: red;
+  font-size: 1.2rem;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #fff;
+  border-radius: 5px;
+}
+.product-item i{
+  font-family:initial;
+  margin-left: 10px;
+}
+.swap{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title-list{
+  color: #000;
+  font-size: 1.6rem;
+}
+.MuaHang-image img{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow:0 4px 8px 0 #ddd;
+  width: 100%;
+}
+.imageItem img{
+  margin: 2px;
+  border: 2px solid rgb(136, 120, 120);
+  width: 80px;
+}
+.inforHang{
+  padding-left: 100px;
+}
+.inforHang p{
+  font-size: 1.6rem;
+}
+.inforHang span{
+  padding: 30px 10px;
+  font-size: 1.8rem;
+  color: red;
+}
+.inforHang button{width: 200px;}
+.sl button{
+  border: none;
+  color: #000;
+  background-color: aliceblue;
+  border-radius: 5px;
+  width: 40px;
+}
+.sl input{
+  border: none;
+  width: 40px;
+}
+.mh{
+  
+  padding:30px 20px;
+  margin-left: 30px;
+}
+.sl h4{
+  position: relative;
+  top:6px;
+  font-size: 1.2rem;
+  padding: 0 5px;
+}
+.footerList i{
+  margin-left: 20px;
+  font-size: 2.5rem;
+  color: rgb(255, 94, 0);
+}
+.mh-product span{
+  font-family:unset;
+  font-size: 1.6rem;
+}
+.desc{
+  position: relative;
+
+}
+.desc-title{
+  border-bottom: 3px solid rgb(57, 57, 100);
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.desc-body img{
+  width: 75%;
+}
+.title-dealHot{
+  color: rgb(255, 17, 0);
+  font-size: 1.6rem;
+}
+.banner img{
+  height: 250px;
+}
+.contact{
+  position: fixed;
+  top: 80%;
+  left: 95%;
+  right: 5%;
+  bottom: 10%;
+}
+.contact i{
+  cursor: pointer;
+  border-radius: 100%;
+  padding: 10px;
+  background-color: rgb(24, 24, 211);
+  color: #fff;
+  font-size: 2.2rem;
+}
+.contact i:hover{
+  color: blue;
+  background-color: #fff;
+}
+.dntt{
+  position: relative;
+  left: 60%;
+}
+.dntt li{ 
+  padding: 0 10px;
+}
+
+.logup-fluid{
+  height: 800px;
+  background-image: url(https://i.pinimg.com/originals/5b/f3/00/5bf300d24d1f961d18d875de6f3ca665.jpg);
+  background-size: 100%;
+}
+
+.logup{
+  padding: 30px;
+  background-color: #66cc22;
+  position: absolute;
+  top:20%;
+  left: 35%;
+  width: 500px;
+}
+
+
+
+.listNone{
+  list-style: none;
+}
